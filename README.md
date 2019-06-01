@@ -1,4 +1,4 @@
-<h3>Best Algorithm Books to Read and Distinguish Yourself</h3>
+<h3>Best AI Books to Read and Distinguish Yourself</h3>
 
 <hr>
 
