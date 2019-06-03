@@ -133,6 +133,54 @@ A Modern Approach</a></b></li>
 
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(74).pdf" style="text-decoration:none;">Advances in Logic, Artificial Intelligence and Robotics: Laptec 2002</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(75).pdf" style="text-decoration:none;">Apocalyptic AI: Visions of Heaven in Robotics, Artificial Intelligence, and Virtual Reality</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(76).pdf" style="text-decoration:none;">Artificial DNA: Methods and Applications</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(77).pdf" style="text-decoration:none;">Artificial Enzymes</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(78).pdf" style="text-decoration:none;">Artificial Intelligence and Integrated Intelligent Information Systems: Emerging Technologies and Applications</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(79).pdf" style="text-decoration:none;">Artificial Intelligence Applications and Innovations</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(80).pdf" style="text-decoration:none;">Artificial Intelligence in Second Language Learning</a></b></li>
+               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(81).pdf" style="text-decoration:none;">Artificial Intelligence Methods and Tools for Systems Biology</a></b></li>
+                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(83).pdf" style="text-decoration:none;">Artificial Neural Networks</a></b></li>
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(85).pdf" style="text-decoration:none;">Biometrics, Computer Security Systems and Artificial Intelligence Applications </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(86).pdf" style="text-decoration:none;">Competitive Intelligence</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(87).pdf" style="text-decoration:none;">Computational Intelligence in Archaeology</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(88).pdf" style="text-decoration:none;">Computational Intelligence in Control</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(89).pdf" style="text-decoration:none;">Conditional and Preferential Logics: Proof Methods and Theorem Proving</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(90).pdf" style="text-decoration:none;">Data Mining with Decision Trees: Theory and Applications</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(91).pdf" style="text-decoration:none;">Electric Systems, Dynamics, and Stability with Artificial Intelligence Applications</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(92).pdf" style="text-decoration:none;">Embodied Artificial Intelligence</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(93).pdf" style="text-decoration:none;">Emerging Artificial Intelligence Applications in Computer Engineering</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(94).pdf" style="text-decoration:none;">Enhanced Methods in Computer Security, Biometric and Artificial Intelligence Systems</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(95).pdf" style="text-decoration:none;">Handbook of Constraint Programming</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(96).pdf" style="text-decoration:none;">Handbook of logic in artificial intelligence and logic programming</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(97).pdf" style="text-decoration:none;">Hybrid Artificial Intelligence Systems</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(98).pdf" style="text-decoration:none;">Integrated Intelligent Systems for Engineering Design</a></b></li>
 
 
 
