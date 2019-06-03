@@ -208,6 +208,32 @@ A Modern Approach</a></b></li>
 
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(108).pdf" style="text-decoration:none;">Artificial General Intelligence</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(109).pdf" style="text-decoration:none;">Real World Semantic Web Applications</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(110).pdf" style="text-decoration:none;">Strategic intelligence: Business Intelligence, Competitive Intelligence, and Knowledge Management</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(111).pdf" style="text-decoration:none;">Progress in Artificial Intelligence</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(112).pdf" style="text-decoration:none;">The Essential Turing: Seminal Writings in Computing, Logic, Philosophy, Artificial Intelligence, and Artificial Life plus The Secrets of Enigma</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(113).pdf" style="text-decoration:none;">Universal Artificial Intelligence: Sequential Decisions Based on Algorithmic Probability</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(114).pdf" style="text-decoration:none;">Using Artificial Intelligence in Chemistry and Biology: A Practical Guide</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(115).pdf" style="text-decoration:none;">Logics for artificial intelligence</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(116).pdf" style="text-decoration:none;">The Acquisition of Syntactic Knowledge MIT Press Series in Artificial Intelligence</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(117).pdf" style="text-decoration:none;">Fuzzy Logic in Artificial Intelligence Towards Intelligent Systems</a></b></li>
+
 
 
 
