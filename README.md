@@ -234,6 +234,7 @@ A Modern Approach</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(117).pdf" style="text-decoration:none;">Fuzzy Logic in Artificial Intelligence Towards Intelligent Systems</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(119).pdf" style="text-decoration:none;">The Hundred-Page Machine Learning Book</a></b></li>
 
 
 
