@@ -37,13 +37,56 @@ Artificial Intelligence Approach</a></b></li>
                                
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(22).pdf" style="text-decoration:none;">The Elements of Artificial Intelligence (An Introduction using LISP)</a></b></li>
                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(23).pdf" style="text-decoration:none;">A Class of Algorithms for Distributed Constraint Optimization</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(24).pdf" style="text-decoration:none;">Advanced Artificial Intelligence</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(25).pdf" style="text-decoration:none;"><span style ="color:red">Advances</span> in Applied Artificial Intelligence</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(26).pdf" style="text-decoration:none;">Advancing Artificial Intelligence Through Biological Process Applications</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(27).pdf" style="text-decoration:none;">Argumentation in Artificial Intelligence</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(28).pdf" style="text-decoration:none;"><span style ="color:red">Artificial Dreams:</span>
+The Quest for Non-Biological Intelligence</a></b></li>
+                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(29).pdf" style="text-decoration:none;">Artificial Intelligence – Agents and Environments</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(30).pdf" style="text-decoration:none;">Artificial intelligence and scientific method</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(31).pdf" style="text-decoration:none;"><span style ="color:red">Artificial Intelligence</span>
+and Soft Computing: Behavioral and Cognitive Modeling of the Human Brain</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(32).pdf" style="text-decoration:none;">Artificial Intelligence: A New Synthesis</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(33).pdf" style="text-decoration:none;">Artificial Intelligence for Advanced Problem Solving Techniques</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(34).pdf" style="text-decoration:none;"><span style ="color:red">Artificial Intelligence</span>
+for Computer Games</a></b></li>
+                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(35).pdf" style="text-decoration:none;">Artificial Intelligence in Medicine</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(36).pdf" style="text-decoration:none;">Artificial Intelligence Methods in the Environmental Sciences</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(37).rar" style="text-decoration:none;">Artificial Intelligence:
+A Modern Approach</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(38).pdf" style="text-decoration:none;">Artificial Intelligence Research and Development</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(39).pdf" style="text-decoration:none;">Artificial Intelligence with Uncertainty</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(40).pdf" style="text-decoration:none;">Bayesian Artificial Intelligence</a></b></li>
+                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(41).pdf" style="text-decoration:none;">Chess Metaphors: Artificial Intelligence and the Human Mind</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(42).pdf" style="text-decoration:none;">Computing with Instinct: Rediscovering Artificial Intelligence</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(43).pdf" style="text-decoration:none;">Distributed Computing and Artificial Intelligence</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(44).pdf" style="text-decoration:none;">Emerging Research in Artificial Intelligence and Computational Intelligence</a></b></li>
+               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(45).pdf" style="text-decoration:none;">Foundations of Artificial Intelligence</a></b></li>
+                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(46).pdf" style="text-decoration:none;">Fundamentals of the New Artificial Intelligence</a></b></li>
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(47).pdf" style="text-decoration:none;">The Handbook of Artificial Intelligence </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(48).pdf" style="text-decoration:none;">Logic-Based Artificial Intelligence</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(49).pdf" style="text-decoration:none;">Logic for problem solving</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(50).pdf" style="text-decoration:none;">Artificial Intelligence Illuminated</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(51).pdf" style="text-decoration:none;">Prolog Programming for Artificial Intelligence</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(52).pdf" style="text-decoration:none;">Readings in Artificial Intelligence and Databases</a></b></li>
 
-
-
-
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(53).pdf" style="text-decoration:none;">The AI Business: The Commercial Uses of Artificial Intelligence</a></b></li>
 
 
 
