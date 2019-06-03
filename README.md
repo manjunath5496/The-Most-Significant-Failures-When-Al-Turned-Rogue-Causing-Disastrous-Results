@@ -88,6 +88,64 @@ A Modern Approach</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(53).pdf" style="text-decoration:none;">The AI Business: The Commercial Uses of Artificial Intelligence</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(54).pdf" style="text-decoration:none;">AI Techniques for Game Programming</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(55).pdf" style="text-decoration:none;">Artificial Intelligence: A Systems Approach</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(56).pdf" style="text-decoration:none;">Artificial Intelligence</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(57).pdf" style="text-decoration:none;">Artificial Intelligence: Mirrors for the Mind</a></b></li>
+               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(58).pdf" style="text-decoration:none;">Artificial Intelligence Illuminated</a></b></li>
+                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(59).rar" style="text-decoration:none;">Artificial Intelligence in the 21st Century</a></b></li>
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(60).pdf" style="text-decoration:none;">Artificial Intelligence with Python </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(61).pdf" style="text-decoration:none;">Biologically Inspired Artificial Intelligence for Computer Games</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(62).pdf" style="text-decoration:none;">Genetic Fuzzy Systems: Evolutionary Tuning and Learning of Fuzzy Knowledge Bases</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(63).pdf" style="text-decoration:none;">Introduction to Genetic Algorithms</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(64).pdf" style="text-decoration:none;">Practical Genetic Algorithms</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(65).pdf" style="text-decoration:none;">Practical Python AI Projects</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(66).pdf" style="text-decoration:none;">Superintelligence</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(67).pdf" style="text-decoration:none;">Our Final Invention: Artificial Intelligence and the End of the Human Era</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(68).pdf" style="text-decoration:none;">Essentials of Metaheuristics</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(69).pdf" style="text-decoration:none;">Virtual Reality for Human Computer Interaction</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(70).pdf" style="text-decoration:none;">Affective Computing: Focus on Emotion Expression, Synthesis and Recognition</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(71).pdf" style="text-decoration:none;">From Bricks to Brains: The Embodied Cognitive Science of LEGO Robots</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(72).pdf" style="text-decoration:none;">Simply Logical: Intelligent Reasoning by Example</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Artificial-Ignorance-The-12-Biggest-AI-Failures/blob/master/art(73).pdf" style="text-decoration:none;">The Quest for Artificial Intelligence: A History of Ideas and Achievements</a></b></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
