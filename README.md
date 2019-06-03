@@ -1,6 +1,6 @@
 <h3>Best AI Books to Read and Distinguish Yourself</h3>
 
-<hr>
+<p><strong>________________________________________________________________________________________________________________</strong></p>
 
 <ul>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(1).pdf" style="text-decoration:none;">Artificial Intelligence: A Guide to Intelligent Systems</a></b></li>
