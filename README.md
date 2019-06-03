@@ -183,7 +183,28 @@ A Modern Approach</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(98).pdf" style="text-decoration:none;">Integrated Intelligent Systems for Engineering Design</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(99).pdf" style="text-decoration:none;">Intelligence and Intelligence Testing</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(100).pdf" style="text-decoration:none;">Intelligence, Information, Thinking</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(101).pdf" style="text-decoration:none;">Intelligent Bioinformatics: The application of artificial intelligence techniques to bioinformatics problems</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(102).pdf" style="text-decoration:none;">Knowledge Transformation for the Semantic Web</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(103).pdf" style="text-decoration:none;">Artificial intelligence and Inductive Learning</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(104).pdf" style="text-decoration:none;">Maximizing intelligence</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(105).pdf" style="text-decoration:none;">Minds and Computers: An Introduction to the Philosophy of Artificial Intelligence</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(106).pdf" style="text-decoration:none;">Ontology and the Semantic Web</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(107).pdf" style="text-decoration:none;">Passionate Engines: What Emotions Reveal about the Mind and Artificial Intelligence </a></b></li>
 
 
 
