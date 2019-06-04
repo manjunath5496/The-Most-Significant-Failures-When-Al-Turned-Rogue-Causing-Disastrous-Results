@@ -66,8 +66,7 @@
                                
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(4).pdf" style="text-decoration:none;">Artificial Intelligence By Example</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(5).pdf" style="text-decoration:none;">Artificial Intelligence for Big Data</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(6).pdf" style="text-decoration:none;"><span style ="color:red">Artificial Intelligence</span>
-Illuminated</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(6).pdf" style="text-decoration:none;"><span style ="color:red">A Quick and Gentle Guide to Constraint </span> Logic Programming via ECLiPSe</a></b></li>
                           
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(7).pdf" style="text-decoration:none;">Artificial intelligence in Education</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(8).pdf" style="text-decoration:none;">Lecture Notes in Artificial Intelligence</a></b></li>
@@ -136,7 +135,7 @@ A Modern Approach</a></b></li>
                                
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(49).pdf" style="text-decoration:none;">Logic for problem solving</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(50).pdf" style="text-decoration:none;">Artificial Intelligence Illuminated</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(50).pdf" style="text-decoration:none;">The World and Mind of Computation and Complexity</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(51).pdf" style="text-decoration:none;">Prolog Programming for Artificial Intelligence</a></b></li>
 
