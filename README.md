@@ -9,32 +9,38 @@
 <p><strong>________________________________________________________________________________________________________________</strong></p>
 <ul>
 <li><strong>1959:&nbsp;</strong>AI designed to be a General Problem Solver failed to solve real world problems.</li>
-<li>&nbsp;<strong>1982:&nbsp;</strong><a href="https://en.wikipedia.org/wiki/Software" target="_blank" rel="nofollow noopener">Software</a>&nbsp;designed to make discoveries, discovered how to cheat instead.</li>
+<li><strong>1982:&nbsp;</strong><a href="https://en.wikipedia.org/wiki/Software" rel="nofollow">Software</a>&nbsp;designed to make discoveries, discovered how to cheat instead.</li>
 <li><strong>1983:</strong>&nbsp;Nuclear attack early warning system falsely claimed that an attack is taking place.</li>
-<li>&nbsp;<strong>2010:</strong>&nbsp;Complex AI stock trading software caused a trillion dollar flash crash.</li>
-<li><strong>2011:&nbsp;</strong>E-Assistant told to "call me an ambulance" began to refer to the user as&nbsp;<a href="https://en.wikipedia.org/wiki/Ambulance" target="_blank" rel="nofollow noopener">Ambulance</a>.</li>
-<li>&nbsp;<strong>2013:</strong>&nbsp;Object recognition neural networks saw phantom objects in particular noise images.</li>
+<li><strong>2010:</strong>&nbsp;Complex AI stock trading software caused a trillion dollar flash crash.</li>
+<li><strong>2011:&nbsp;</strong>E-Assistant told to "call me an ambulance" began to refer to the user as&nbsp;<a href="https://en.wikipedia.org/wiki/Ambulance" rel="nofollow">Ambulance</a>.</li>
+<li><strong>2013:</strong>&nbsp;Object recognition neural networks saw phantom objects in particular noise images.</li>
 <li><strong>2015:</strong>&nbsp;An automated email reply generator created inappropriate responses, such as writing "I love you" to a business colleague.</li>
 <li><strong>2015:</strong>&nbsp;A robot for grabbing auto parts grabbed and killed a man.</li>
-<li><strong>2015:</strong>&nbsp;Image tagging software classified black people as&nbsp;<a href="https://en.wikipedia.org/wiki/Gorilla" target="_blank" rel="nofollow noopener">gorilla</a>s.</li>
-<li><strong>2015:</strong>&nbsp;Medical AI classified patients with&nbsp;<a href="https://en.wikipedia.org/wiki/Asthma" target="_blank" rel="nofollow noopener">asthma</a>&nbsp;as having a lower risk of dying of&nbsp;<a href="https://en.wikipedia.org/wiki/Pneumonia" target="_blank" rel="nofollow noopener">pneumonia</a>.</li>
+<li><strong>2015:</strong>&nbsp;Image tagging software classified black people as&nbsp;<a href="https://en.wikipedia.org/wiki/Gorilla" rel="nofollow">gorilla</a>s.</li>
+<li><strong>2015:</strong>&nbsp;Medical AI classified patients with&nbsp;<a href="https://en.wikipedia.org/wiki/Asthma" rel="nofollow">asthma</a>&nbsp;as having a lower risk of dying of&nbsp;<a href="https://en.wikipedia.org/wiki/Pneumonia" rel="nofollow">pneumonia</a>.</li>
 <li><strong>2015:</strong>&nbsp;Adult content filtering software failed to remove inappropriate content, exposing children to violent and sexual content.</li>
-<li>&nbsp;<strong>2016:&nbsp;</strong>AI designed to predict&nbsp;<a href="https://en.wikipedia.org/wiki/Recidivism" target="_blank" rel="nofollow noopener">recidivism</a>&nbsp;acted racist.</li>
-<li>&nbsp;<strong>2016:</strong>&nbsp;An AI agent exploited a reward&nbsp;<a href="https://en.wikipedia.org/wiki/Signal" target="_blank" rel="nofollow noopener">signal</a>&nbsp;to win a game without actually completing the game.</li>
+<li><strong>2016:&nbsp;</strong>AI designed to predict&nbsp;<a href="https://en.wikipedia.org/wiki/Recidivism" rel="nofollow">recidivism</a>&nbsp;acted racist.</li>
+<li><strong>2016:</strong>&nbsp;An AI agent exploited a reward&nbsp;<a href="https://en.wikipedia.org/wiki/Signal" rel="nofollow">signal</a>&nbsp;to win a game without actually completing the game.</li>
 <li><strong>2016:</strong>&nbsp;Video game&nbsp;<strong>NPCs</strong>&nbsp;(non-player characters, or any character that is not controlled by a human player) designed unauthorized super weapons.</li>
 <li><strong>2016:</strong>&nbsp;AI judged a beauty contest and rated dark-skinned contestants lower.</li>
-<li>&nbsp;<strong>2016:</strong>&nbsp;A mall&nbsp;<a href="https://en.wikipedia.org/wiki/Security" target="_blank" rel="nofollow noopener">security</a>&nbsp;robot collided with and injured a child.</li>
-<li><strong>2016:</strong>&nbsp;The AI "<a href="https://en.wikipedia.org/wiki/Alpha_Go" target="_blank" rel="nofollow noopener"><strong>Alpha Go</strong></a>" lost to a human in a world-championship-level game of "Go."</li>
-<li>&nbsp;<strong>2016:</strong>&nbsp;A self-driving car had a deadly accident.</li>
-<li>&nbsp;<strong>2018:</strong>&nbsp;<a href="https://en.wikipedia.org/wiki/Google" target="_blank" rel="nofollow noopener"><strong>Google&nbsp;</strong></a>Translate shows gender bias in&nbsp;<a href="https://en.wikipedia.org/wiki/Turkish" target="_blank" rel="nofollow noopener">Turkish</a>-<a href="https://en.wikipedia.org/wiki/English" target="_blank" rel="nofollow noopener">English</a>&nbsp;translations.</li>
-<li>&nbsp;<strong>2018:</strong>&nbsp;<a href="https://en.wikipedia.org/wiki/Facebook" target="_blank" rel="nofollow noopener"><strong>Facebook</strong></a>&nbsp;chat bots shut down after developing their own language.</li>
-<li>&nbsp;<strong>2018:</strong>&nbsp;Autonomous van in accident on its first day.</li>
-<li><strong>2018:&nbsp;</strong><a href="https://en.wikipedia.org/wiki/Google_Allo" target="_blank" rel="nofollow noopener"><strong>Google Allo</strong></a>&nbsp;suggested man in turban emoji as response to a gun emoji.</li>
-<li><strong>2018:</strong>&nbsp;Face ID beat by a mask.</li>
-<li><strong>2018:</strong>&nbsp;AI misses the mark with&nbsp;<a href="https://en.wikipedia.org/wiki/Kentucky_Derby" target="_blank" rel="nofollow noopener">Kentucky Derby&nbsp;</a>predictions.</li>
-<li>&nbsp;<strong>2018:&nbsp;</strong><a href="https://en.wikipedia.org/wiki/Google_Home" target="_blank" rel="nofollow noopener">Google Home</a>&nbsp;Minis spied on their owners.</li>
-<li><strong>2018:</strong>&nbsp;Google Home outage causes near 100% failure rate.</li>
-<li><strong>2018:</strong>&nbsp;Facebook allowed ads to be targeted to "<a href="https://en.wikipedia.org/wiki/Jews" target="_blank" rel="nofollow noopener">Jew</a>&nbsp;Haters".</li>
+<li>&nbsp;<strong>2016:</strong>&nbsp;A mall&nbsp;<a href="https://en.wikipedia.org/wiki/Security" rel="nofollow">security</a>&nbsp;robot collided with and injured a child.</li>
+<li><strong>2016:</strong>&nbsp;The AI "<a href="https://en.wikipedia.org/wiki/Alpha_Go" rel="nofollow"><strong>Alpha Go</strong></a>" lost to a human in a world-championship-level game of "Go."</li>
+<li><strong>2016:</strong>&nbsp;A self-driving car had a deadly accident.</li>
+<li><strong>2017:</strong>&nbsp;<a href="https://en.wikipedia.org/wiki/Google" rel="nofollow"><strong>Google&nbsp;</strong></a>Translate shows gender bias in&nbsp;<a href="https://en.wikipedia.org/wiki/Turkish" rel="nofollow">Turkish</a>-<a href="https://en.wikipedia.org/wiki/English" rel="nofollow">English</a>&nbsp;translations.</li>
+<li><strong>2017:</strong>&nbsp;<a href="https://en.wikipedia.org/wiki/Facebook" rel="nofollow"><strong>Facebook</strong></a>&nbsp;chat bots shut down after developing their own language.</li>
+<li><strong>2017:</strong>&nbsp;Autonomous van in accident on its first day.</li>
+<li><strong>2017:&nbsp;</strong><a href="https://en.wikipedia.org/wiki/Google_Allo" rel="nofollow"><strong>Google Allo</strong></a>&nbsp;suggested man in turban emoji as response to a gun emoji.</li>
+<li><strong>2017:</strong>&nbsp;Face ID beat by a mask.</li>
+<li><strong>2017:</strong>&nbsp;AI misses the mark with&nbsp;<a href="https://en.wikipedia.org/wiki/Kentucky_Derby" rel="nofollow">Kentucky Derby&nbsp;</a>predictions.</li>
+<li><strong>2017:&nbsp;</strong><a href="https://en.wikipedia.org/wiki/Google_Home" rel="nofollow">Google Home</a>&nbsp;Minis spied on their owners.</li>
+<li><strong>2017:</strong>&nbsp;Google Home outage causes near 100% failure rate.</li>
+<li><strong>2017:</strong>&nbsp;Facebook allowed ads to be targeted to "<a href="https://en.wikipedia.org/wiki/Jews" rel="nofollow">Jew</a>&nbsp;Haters".</li>
+<li><strong>2018: </strong>Chinese billionaire's face identified as jaywalker.</li>
+<li><strong>2018: <a title="Uber" href="https://en.wikipedia.org/wiki/Uber" target="_blank">Uber</a></strong>&nbsp;self-driving car kills a pedestrian.</li>
+<li><strong>2018:</strong> Amazon AI recruiting tool is gender biased.</li>
+<li><strong>2018:</strong> <a title="Google Photo" href="https://en.wikipedia.org/wiki/Google_Photos" target="_blank">Google Photo</a> confuses skier and mountain.</li>
+<li><strong>2018:</strong> LG robot Cloi gets stagefright at its unveiling.</li>
+<li><strong>2018:</strong> <a title="IBM Watson" href="https://en.wikipedia.org/wiki/Watson_(computer)" target="_blank">IBM Watson</a> comes up short in healthcare.</li>
 </ul>
 <p>While these are only a few instances of failures that have been observed so far, they are pieces of evidence to the fact that&nbsp;<strong>Artificial intelligence</strong>&nbsp;(the simulation of human intelligence processes by machines, especially computer systems) has the potential to develop a will of its own that may be in conflict with members of the human race. This is definitely a warning about the&nbsp;<strong>potential dangers</strong>&nbsp;of Artificial intelligence which should be addressed while exploring its potential interests.</p>
 <p>"I believe there is no deep difference between what can be achieved by a biological brain and what can be achieved by a computer. It therefore follows that computers can, in theory, emulate human intelligence &mdash; and exceed it." &ndash;&nbsp;<a href="https://en.wikipedia.org/wiki/Stephen_Hawking" target="_blank" rel="nofollow noopener">Stephen Hawking</a></p>
