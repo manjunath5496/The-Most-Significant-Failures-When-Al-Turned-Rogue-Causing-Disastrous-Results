@@ -260,6 +260,16 @@ Intelligence</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(82).pdf" style="text-decoration:none;">Artificial Intelligence, Robotics, Privacy and Data Protection</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(125).pdf" style="text-decoration:none;">C++ Neural Networks and Fuzzy Logic</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(126).pdf" style="text-decoration:none;">A Course in Machine Learning</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(127).pdf" style="text-decoration:none;">Recent Advances in Face Recognition</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(128).pdf" style="text-decoration:none;">Machine Learning, Neural and Statistical Classification</a></b></li>
+
 
 
 
