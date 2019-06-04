@@ -238,7 +238,26 @@ A Modern Approach</a></b></li>
 
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(120).pdf" style="text-decoration:none;">Research Priorities for Robust and Beneficial Artificial
+Intelligence</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(121).pdf" style="text-decoration:none;">Artificial Intelligence as a Positive and Negative Factor in Global Risk</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(122).pdf" style="text-decoration:none;">The New Wave of Artificial Intelligence</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(123).pdf" style="text-decoration:none;">The Robot and I: How New Digital Technologies Are Making Smart People and Businesses Smarter by Automating Rote Work</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(124).pdf" style="text-decoration:none;">Scope of Artificial Intelligence</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(118).pdf" style="text-decoration:none;">Practical Artificial Intelligence Programming With Java</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(84).pdf" style="text-decoration:none;">Artificial Intelligence and Life in 2030</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Most-Significant-Failures-When-Al-Turned-Rogue-Causing-Disastrous-Results/blob/master/art(82).pdf" style="text-decoration:none;">Artificial Intelligence, Robotics, Privacy and Data Protection</a></b></li>
 
 
 
