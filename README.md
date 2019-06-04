@@ -1,4 +1,4 @@
-<h3>Best AI Books to Read and Distinguish Yourself</h3>
+<h3>Must Read Books on Artificial Intelligence</h3>
 
 <p><strong>________________________________________________________________________________________________________________</strong></p>
 
